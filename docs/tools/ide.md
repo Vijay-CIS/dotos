@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Download Eclipse
 
-- ### Looking for Eclipse IDE Click here [Eclipse](.https://www.eclipse.org/downloads/).
+- ### Looking for Eclipse IDE Click here [Eclipse](https://www.eclipse.org/downloads/).
 
 ## Download Spring Tool Suite (STS)
 
